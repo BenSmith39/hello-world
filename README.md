@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+My name is Ben Smith, a current FSU student in the Applied Computer Science MS degree. 
